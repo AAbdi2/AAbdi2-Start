@@ -26,6 +26,7 @@ public class GuideMain {
         Guide myGuide = new Guide(1);
         String result = myGuide.guideMethod("hello from main!");
         System.out.println(result);
+        System.out.println("Hello");
 
     }
 }
